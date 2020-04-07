@@ -1,7 +1,6 @@
-
+/.idea/
 *.jar
 *.iml
 target/
 bin/
 .idea/
-/.idea/
